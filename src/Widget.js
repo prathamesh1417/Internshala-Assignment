@@ -65,7 +65,7 @@ export default function Widget() {
         </div>
       </nav>
 
-      {/* Dropdown Menu for Mobile */}
+     
       {isDropdownOpen && (
         <div className="md:hidden flex flex-col items-center bg-white rounded-md shadow-lg mt-2 p-4">
           <a
